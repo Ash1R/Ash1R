@@ -1,26 +1,33 @@
 ## Hello! I'm Ashir Rao
 
 I'm a CS major at Cornell University with a passion for all things tech and beyond! 
+
 From Natural Language Processing 🧠📝 and Machine Learning 🤖📊 to Web/App Development 🌐📱 and Robotics 🤖🤖 – I love diving deep into complex problems and creating elegant solutions.
 
 🛠️ What I Work On
-NLP & ML: Sentiment analysis in different languages 📚🔎
-Web/App Dev: Solving problems with user-friendly interfaces and a dash of backend magic. 🕸️✨
-Robotics: Moving things with code, and it is fascinating. ⚙️🤖
+- NLP & ML: Sentiment analysis in different languages 📚🔎
+- Web/App Dev: Solving problems with user-friendly interfaces and a dash of backend magic. 🕸️✨
+- Robotics: Moving things with code, and it is fascinating. ⚙️🤖
 
 ☕ Fun Facts
-I'm fueled by coffee. ☕🚀
-I believe coding is an art. 🎨💻
-I sprinkle emojis everywhere (because why not)? 🤷‍♂️🤩
-I like making things simple but impactful. ✨🔧
+- I'm fueled by coffee. ☕🚀
+- I believe coding is an art. 🎨💻
+- I sprinkle emojis everywhere (because why not)? 🤷‍♂️🤩
+- I like making things simple but impactful. ✨🔧
+
 🔭 Currently Exploring
-Advanced NLP models 🗣️🤖
-Better UI design 🌐🛠️
-Finding opportunities to do work in autonomous robotics 🤖🛠️
+- Advanced NLP models 🗣️🤖
+- Better UI design 🌐🛠️
+- Finding opportunities to do work in autonomous robotics 🤖🛠️
+
 💬 Let's Connect!
+
 Got a cool project or just want to chat?
+
 Personal email: ashir.rao26@gmail.com
+
 School email: ar2558@cornell.edu
+
 
 Let's make something awesome together. 🌟
 
