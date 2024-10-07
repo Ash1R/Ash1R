@@ -9,12 +9,6 @@ From Natural Language Processing 🧠📝 and Machine Learning 🤖📊 to Web/A
 - Web/App Dev: Solving problems with user-friendly interfaces and a dash of backend magic. 🕸️✨
 - Robotics: Moving things with code, and it is fascinating. ⚙️🤖
 
-☕ Fun Facts
-- I'm fueled by coffee. ☕🚀
-- I believe coding is an art. 🎨💻
-- I sprinkle emojis everywhere (because why not)? 🤷‍♂️🤩
-- I like making things simple but impactful. ✨🔧
-
 🔭 Currently Exploring
 - Advanced NLP models 🗣️🤖
 - Better UI design 🌐🛠️
