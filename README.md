@@ -23,7 +23,6 @@ Personal email: ashir.rao26@gmail.com
 School email: ar2558@cornell.edu
 
 
-Let's make something awesome together. 🌟
 
 <!--
 **Ash1R/Ash1R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
