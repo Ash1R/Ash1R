@@ -4,7 +4,7 @@ I'm a CS major at Cornell University with a passion for all things tech and beyo
 
 From Machine Learning to Web/App Development to Robotics – I love solving problems using tech.
 
-🛠️ What I'ce Worked On
+🛠️ What I've Worked On
 - NLP & ML: especially sentiment analysis in different languages
 - Web/App Dev: Solving problems with a variety of tech stacks
 - Robotics: Moving things with code
